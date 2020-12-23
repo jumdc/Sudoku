@@ -1,2 +1,8 @@
 # Sudoku Solving - ORTools
-Génération et Résolution de grille de sudoku utilisant ORTools
+
+Generation and solving of sudokus using ORTools
+
+### requirements : 
+```
+python -m pip install --upgrade --user ortools
+```
